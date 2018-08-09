@@ -1,0 +1,7 @@
+{
+  "name": "MobileWebL07HandsOn",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
